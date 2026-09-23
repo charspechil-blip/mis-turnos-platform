@@ -1,0 +1,7 @@
+{
+  "name": "MIS TURNOS - Gestión y Planificación de Turnos Laborales",
+  "description": "Sistema profesional de gestión de turnos laborales, planificación rotativa y fija, solicitudes de empleados, autorizaciones oficiales, permutas, excepciones y trazabilidad con Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
